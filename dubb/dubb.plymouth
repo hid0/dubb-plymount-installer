@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Xubuntu Load Plymouth
+Description=A Plymouth of Xubuntu By Hid0
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/dubb
+ScriptFile=/usr/share/plymouth/themes/dubb/dubb.script
