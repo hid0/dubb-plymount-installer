@@ -1,12 +1,11 @@
 # dubb-plymount-installer
-######Ubuntu Minimalize splash
+Ubuntu Minimalize splash
 
 ##**How to installing**
 
 > sudo chmod +x install.sh run_plymouth.sh
 > ./install.sh
-or
-> bash install.sh
+
 
 _finish_
 
